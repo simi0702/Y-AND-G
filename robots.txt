@@ -1,0 +1,5 @@
+User-agent: *
+Allow: https://toothandgumclinic.com/sitemap.xml
+Allow: https://toothandgumclinic.com/blogs/sitemap_index.xml
+
+Sitemap: https://toothandgumclinic.com/sitemap.xml
